@@ -261,11 +261,11 @@ else &quot;approved&quot;</text>
         <di:waypoint x="600" y="240" />
       </dmndi:DMNEdge>
       <dmndi:DMNShape id="_361F74F4-D32D-45FA-AE12-462EFD3724DD" dmnElementRef="_2C9704EA-E2BC-4367-8E73-7AEDC78BA1AE" isCollapsed="false" isListedInputData="false">
-        <dc:Bounds x="240" y="160" width="200" height="60" />
+        <dc:Bounds x="140" y="60" width="200" height="60" />
       </dmndi:DMNShape>
       <dmndi:DMNEdge id="_E1929612-3209-4368-8645-CF8E99CE2544-AUTO-TARGET" dmnElementRef="_82959522-45D6-42A9-8F57-08D97A2C2E21" sourceElement="_E4925964-4268-40EB-9865-668A3F7A27E5" targetElement="_361F74F4-D32D-45FA-AE12-462EFD3724DD">
         <di:waypoint x="600" y="240" />
-        <di:waypoint x="340" y="190" />
+        <di:waypoint x="240" y="90" />
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="_9EDBBE08-CC95-4C4E-BBAE-A8D26D0E3C90" dmnElementRef="_45C0F101-4E19-41CB-95C3-78032E0F979E" sourceElement="_E4925964-4268-40EB-9865-668A3F7A27E5" targetElement="_0AB60698-6E84-4281-AC28-66ACA5E06E76">
         <di:waypoint x="600" y="240" />
